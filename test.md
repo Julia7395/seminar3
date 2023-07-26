@@ -7,4 +7,4 @@
 
 тут
 
-there is a new code from junior programmer
+there is info from master branch
