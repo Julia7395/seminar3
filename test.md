@@ -7,4 +7,5 @@
 
 тут
 
-there is a new code from junior programmer
+new written
+
